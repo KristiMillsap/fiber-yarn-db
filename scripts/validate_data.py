@@ -2,7 +2,13 @@ import json
 import glob
 import sys
 from pathlib import Path
-from jsonschema import validate, ValidationError, SchemaError
+
+try:
+    from jsonschema import validate, ValidationError, SchemaError
+except ImportError:
+    print("Error: 'jsonschema' package is not installed.")
+    print("Please install it by running: pip install jsonschema")
+    sys.exit(1)
 
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
