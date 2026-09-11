@@ -7,7 +7,7 @@ try:
     from jsonschema import validate, ValidationError, SchemaError
 except ImportError:
     print("Error: 'jsonschema' package is not installed.")
-    print("Please install it by running: pip install jsonschema")
+    print("Please install it by running: pip3 install jsonschema (or python3 -m pip install jsonschema)")
     sys.exit(1)
 
 def load_json(filepath):
