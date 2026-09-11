@@ -1,0 +1,5 @@
+
+## Running Validation
+
+Run the validation script to check all JSON files in the `data/` directory against the primary schema:
+

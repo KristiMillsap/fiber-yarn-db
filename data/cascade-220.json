@@ -1,0 +1,23 @@
+{
+  "brand": "Cascade Yarns",
+  "line_name": "Cascade 220",
+  "weight_category": 4,
+  "put_up": {
+    "weight_grams": 100,
+    "weight_ounces": 3.5,
+    "yardage": 220,
+    "meters": 200
+  },
+  "recommended_gauge": {
+    "knit_gauge_4in": 20,
+    "crochet_gauge_4in": 14,
+    "recommended_needle_mm": 4.5,
+    "recommended_hook_mm": 5.5
+  },
+  "fiber_content": [
+    {
+      "fiber_type": "Peruvian Highland Wool",
+      "percentage": 100
+    }
+  ]
+}
