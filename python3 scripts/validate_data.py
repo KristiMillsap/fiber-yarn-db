@@ -1,5 +1,5 @@
 
-## Running Project Planner
+## Running Search
 
-Run the interactive project planner to calculate project possibilities from your available yarn:
+Run the search CLI tool to filter and search yarns in the database:
 
