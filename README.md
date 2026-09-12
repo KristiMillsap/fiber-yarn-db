@@ -7,9 +7,10 @@ An open-source data repository for yarn specifications, attributes, and fiber co
 - `schema/`: JSON Schema definitions validating yarn product specifications.
   - `yarn-v1.schema.json`: Schema Draft-07 for yarn metadata (weight category, put-up, gauge, fiber content).
 - `data/`: Contains JSON datasets for individual yarn lines.
-- `scripts/`: Utility scripts for schema validation and CLI searching.
+- `scripts/`: Utility scripts for schema validation, CLI searching, and project planning.
   - `validate_data.py`: Script to validate data files against the schema.
   - `search_yarn.py`: CLI tool for querying yarn data.
+  - `project_planner.py`: Interactive CLI tool to match available yarn stash against common project requirements.
 
 ## Setup & Prerequisites
 
