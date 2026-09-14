@@ -1,0 +1,23 @@
+{
+  "brand": "Lion Brand Yarn",
+  "line_name": "Mandala\u00ae Yarn",
+  "weight_category": 4,
+  "put_up": {
+    "weight_grams": 100.0,
+    "weight_ounces": 3.5,
+    "yardage": 200.0,
+    "meters": 183.0
+  },
+  "recommended_gauge": {
+    "knit_gauge_4in": 18.0,
+    "crochet_gauge_4in": 14.0,
+    "recommended_needle_mm": 5.0,
+    "recommended_hook_mm": 5.5
+  },
+  "fiber_content": [
+    {
+      "fiber_type": "acrylic",
+      "percentage": 100.0
+    }
+  ]
+}
