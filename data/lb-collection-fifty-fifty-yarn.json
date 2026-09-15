@@ -1,0 +1,31 @@
+{
+  "brand": "Lion Brand Yarn",
+  "line_name": "LB Collection\u00ae Fifty Fifty Yarn",
+  "weight_category": 4,
+  "put_up": {
+    "weight_grams": 200.0,
+    "weight_ounces": 7.05,
+    "yardage": 200.0,
+    "meters": 183.0
+  },
+  "recommended_gauge": {
+    "knit_gauge_4in": 18.0,
+    "crochet_gauge_4in": 14.0,
+    "recommended_needle_mm": 5.0,
+    "recommended_hook_mm": 5.5
+  },
+  "fiber_content": [
+    {
+      "fiber_type": "lustrous alpaca with",
+      "percentage": 50.0
+    },
+    {
+      "fiber_type": "soft wool",
+      "percentage": 50.0
+    },
+    {
+      "fiber_type": "perfect yarn",
+      "percentage": 100.0
+    }
+  ]
+}

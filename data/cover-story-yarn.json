@@ -1,0 +1,23 @@
+{
+  "brand": "Lion Brand Yarn",
+  "line_name": "Cover Story\u2122 Yarn",
+  "weight_category": 4,
+  "put_up": {
+    "weight_grams": 300.0,
+    "weight_ounces": 10.58,
+    "yardage": 547.0,
+    "meters": 500.18
+  },
+  "recommended_gauge": {
+    "knit_gauge_4in": 18.0,
+    "crochet_gauge_4in": 14.0,
+    "recommended_needle_mm": 5.0,
+    "recommended_hook_mm": 5.5
+  },
+  "fiber_content": [
+    {
+      "fiber_type": "polyester and packing",
+      "percentage": 100.0
+    }
+  ]
+}
